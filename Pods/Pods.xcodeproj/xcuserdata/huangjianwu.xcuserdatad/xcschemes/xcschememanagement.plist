@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>HandyJSON.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HHDynamicTableView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HHDynamicTableViewTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-HHDynamicTableViewUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>SnapKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>1B8F6661F3E7412E8F40DB640F950712</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>1BC4000035AB601EAE214F685CAFE124</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2771B241FCE337E606D5617826A23443</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>CB0098BF1D0CEDEA985422ACEDAEADC3</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>D09DBB4CA0620FE7C4D7F040B1D16D80</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
